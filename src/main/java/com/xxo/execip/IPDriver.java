@@ -12,7 +12,7 @@ import org.apache.hadoop.util.Tool;
 import org.apache.hadoop.util.ToolRunner;
 
 /**
- * Created by xiaoxiaomo on 2016/6/30.
+ * Created by xiaoxiaomo on 2014/6/30.
  */
 public class IPDriver extends Configured implements Tool {
 

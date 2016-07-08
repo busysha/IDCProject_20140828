@@ -11,7 +11,7 @@ import net.contentobjects.jnotify.JNotifyListener;
 /**
  * 监控类
  * 监听某个目录，并上传到HDFS
- * Created by xiaoxiaomo on 2016/6/30.
+ * Created by xiaoxiaomo on 2014/6/30.
  */
 public class FileWatcher extends Thread{
 

@@ -14,7 +14,7 @@ import java.util.regex.Pattern;
 
 /**
  * 异常IP过滤Mapper
- * Created by xiaoxiaomo on 2016/6/30.
+ * Created by xiaoxiaomo on 2014/6/30.
  */
 public class IPMapper extends Mapper<Object , Text , Text , NullWritable> {
 

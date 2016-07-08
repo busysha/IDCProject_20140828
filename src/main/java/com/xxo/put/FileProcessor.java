@@ -13,7 +13,7 @@ import java.io.IOException;
 
 /**
  * 合并并写入HDFS
- * Created by xiaoxiaomo on 2016/6/30.
+ * Created by xiaoxiaomo on 2014/6/30.
  */
 public class FileProcessor implements Runnable {
 
