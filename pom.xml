@@ -455,7 +455,7 @@
             <includes>
               <include>**</include>
 
-              <!--<include>cn/crxy/idc/resource/*.*</include>-->
+              <!--<include>com/xxo/idc/resource/*.*</include>-->
               <!--<include>/lib/**</include>-->
               <!-- <include>config/**</include> -->
               <!--<include>**.properties</include>-->

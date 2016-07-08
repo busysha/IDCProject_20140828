@@ -57,7 +57,7 @@ public class AcsLogReducer extends Reducer<Text, AcsLogRecord, NullWritable, Tex
 		
 		//多目录输出好处：
 		//1、如果输出目录存在，不报错，追加   2、可以输出多次 3、可以定义文件头
-		String path = "/user/crxy/accesslogs/"+timedir+"/";
+		String path = "/user/小小默/accesslogs/"+timedir+"/";
 		mout.write(NullWritable.get(), text_value, path);
 		
 	}
